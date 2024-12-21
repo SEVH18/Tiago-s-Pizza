@@ -74,3 +74,25 @@ footer{
   color: white;
   text-align: center;
 }
+
+/* FORMULARIOS */
+
+.formulario{
+  width: 50%;
+  text-align: center;
+  margin-left: 25%;
+  min-height: 89vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.error{
+  padding: 10px;
+color: white;
+background-color: red;
+text-align: center;
+font-weight: bold;
+border-radius: 10px;
+
+}
